@@ -1,0 +1,3 @@
+{"user":"Alex","gender":"Male","age":"18"}
+{"user":"Pavel","gender":"Male","age":"16"}
+{"user":"Diana","gender":"Female","age":"19"}
