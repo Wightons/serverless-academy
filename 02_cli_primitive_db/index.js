@@ -63,6 +63,10 @@ function ask(){
                 ])
                 .then(answers => {
                   if (answers.search) {
+
+                    const users = getAllUsers();
+                    users.forEach(user => console.log(user));
+
                     inquirer.prompt([
                       {
                         type: 'input',
